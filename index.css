@@ -1,20 +1,12 @@
-* {
-    line-height: 1.5;
-}
-
 body {
-
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-img {
-    width: 200px;
-}
-
-ul {
-    list-style: none;
+    background-color: black;
 }
 
 h1 {
-    color: darkred;
+    color: white;
 }
+
+ul {
+    color: white;
+}
+
